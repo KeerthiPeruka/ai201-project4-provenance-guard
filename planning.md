@@ -148,12 +148,11 @@ Returns all audit log entries.
 
 ## AI Tool Plan
 
-AI tools will be used during implementation to speed up development and help generate boilerplate code.
+Claude will be used during implementation to help with the API connection and to fix issues for the functions required by the project.
 
 Planned uses include:
 
 - Creating the initial Flask API routes
 - Connecting the Groq API
-- Brainstorming stylometric heuristic ideas
 - Reviewing confidence score calculations
 - Checking that the API responses match the project specification
