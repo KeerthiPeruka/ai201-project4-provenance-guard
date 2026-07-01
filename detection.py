@@ -1,6 +1,6 @@
 """Detection signals: Groq LLM-based judgment and pure-Python stylometric
 heuristics. Each function takes raw text and returns a single 0-1 score
-representing how AI-generated the text appears to be.
+representing how AI generated the text appears to be.
 """
 import os
 import re
