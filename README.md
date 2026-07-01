@@ -4,6 +4,10 @@
 
 Provenance Guard is a Flask API that analyzes submitted text and estimates whether it is more likely to be human written or AI generated. Instead of relying on a one detector, the project combines two different detection signals into one confidence score and returns a transparency label that explains the result. The project also includes an audit log, an appeals workflow, and rate limiting.
 
+## Demo
+
+Link : https://screenpal.com/content/video/cOiV1vnUQZw 
+
 ---
 
 ## Project Structure
